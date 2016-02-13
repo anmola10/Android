@@ -1,0 +1,163 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: mACjkuu7CseMX+MkbHIQmWwe/JA=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: Rs9mL/mkiB51OpByQBXvJGGvSGE=
+
+Name: res/drawable-xhdpi/splash.jpg
+SHA1-Digest: phIHbmG3Ow4LqkIMdRoKLrsO58s=
+
+Name: res/menu/disp2.xml
+SHA1-Digest: oVOOIZKWpVOfuTvXweSKSOWVHQY=
+
+Name: res/layout/activity_ui.xml
+SHA1-Digest: 76NQCLuiUcuq7VhHxbkd4utnUU0=
+
+Name: res/layout/activity_splash.xml
+SHA1-Digest: cD4WVdXt7rSECCFoYdHgI9Eloug=
+
+Name: res/layout/activity_disp2.xml
+SHA1-Digest: l6cr4/lhNTXr3UQJLnBuVOPXNF0=
+
+Name: res/menu/disp.xml
+SHA1-Digest: ksIAtBkqXqG//JB3vXOujjD9BEg=
+
+Name: res/layout/fragment_three.xml
+SHA1-Digest: cK2/ak3jAOltJCZjbXFjDstHeAM=
+
+Name: res/menu/fragment_beg.xml
+SHA1-Digest: LZgyYz5vW/U25Qsa9I1F3F5XtXM=
+
+Name: res/menu/temp.xml
+SHA1-Digest: U91/WoJGr88t32p1o9IZlWhJIB4=
+
+Name: res/drawable-mdpi/resume1.png
+SHA1-Digest: c+zlkj4Vyjf84tLUgpm1KJMrTVc=
+
+Name: res/layout/activity_about.xml
+SHA1-Digest: hYDd/1Q1K9zBJY8s1ylZXjwZEKI=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: TiFOSd5DqssDKxgz0KJXdN1+RP4=
+
+Name: res/layout/main.xml
+SHA1-Digest: x9ZdUxKadygCaJDRx3O09kMUz/U=
+
+Name: res/layout/skill_frag.xml
+SHA1-Digest: VBiWxiOiGdcqSxNgKswlLD7r7g0=
+
+Name: res/layout/activity_info.xml
+SHA1-Digest: UZ6FMCcB6faetU92wBfoAMU9Ufk=
+
+Name: res/layout/login.xml
+SHA1-Digest: RQD0UNlPbtsEtdfqccPcLoxfew0=
+
+Name: res/layout/fragment_four.xml
+SHA1-Digest: JiUzqq2gqKQkpmoPib6Yh89Gnzs=
+
+Name: res/layout/activity_temp.xml
+SHA1-Digest: zz/rdg9F5PIBIzuekZynjDrL+JY=
+
+Name: res/layout/fragment_one.xml
+SHA1-Digest: R3BBLA8CoIpkPSROdvNv09jOxgI=
+
+Name: res/layout/fragment_five.xml
+SHA1-Digest: i9DXCqEpsMVhpz7wy7OJfIkH/pM=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: bE1k/0gd7rwQP/YTbjBOTjrf+M0=
+
+Name: res/layout/activity_frag.xml
+SHA1-Digest: G4Pgv8CALEohHt7ph2pNv4idqcE=
+
+Name: res/layout/signup.xml
+SHA1-Digest: fxTO5gQIaPtnXoPlypGfRTwZvrA=
+
+Name: res/menu/ui.xml
+SHA1-Digest: /VMVEb0K735kNyoSm8XXuO2glAw=
+
+Name: res/drawable-hdpi/splash.jpg
+SHA1-Digest: Z9WyRMI+BpnuqTeP+xB8VuGbf9k=
+
+Name: resources.arsc
+SHA1-Digest: EC21W0RXrOlYBr1LVaG4wTF6UmU=
+
+Name: res/menu/about.xml
+SHA1-Digest: MgXvO1m3a1i7hMynBq+NhzRvjEU=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: X2H3IeAWr47i43pPtnHKx3ROFyM=
+
+Name: res/menu/info.xml
+SHA1-Digest: B4j7thSxvQad2NU5LGK7o1bSO54=
+
+Name: res/menu/resume.xml
+SHA1-Digest: mDafAvFGRgh8ks+lgtpNMRCcle8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: I45Bi8e0FieBLl+KWh0eGLazCrI=
+
+Name: res/menu/fragment_two.xml
+SHA1-Digest: m4Ruai21luce7iPN26u8lT9W6+M=
+
+Name: res/layout/activity_pie_graph.xml
+SHA1-Digest: /lSSwszc+vSUfI8mAEPbw9wFJZM=
+
+Name: res/menu/fragment_five.xml
+SHA1-Digest: Wyd1sUZza5Xa3I19Lna/lb1UVtM=
+
+Name: res/drawable-mdpi/resume2.jpg
+SHA1-Digest: q5uuESaz8QqJTMvWQVTKAcnr/kM=
+
+Name: res/drawable-mdpi/splash.jpg
+SHA1-Digest: F6RiBZIXIp1X9vQ1UJKzAvNv7HU=
+
+Name: res/drawable-hdpi/ic_drawer.png
+SHA1-Digest: xuD8JQKrUq2ggFttI9/9Vz0pVIM=
+
+Name: assets/About.html
+SHA1-Digest: 3kFyA0d5Che18qJzY9rjHYjLpA4=
+
+Name: res/layout/activity_disp.xml
+SHA1-Digest: szME0//a9OurV92qg23A67ulxQM=
+
+Name: res/menu/fragment_three.xml
+SHA1-Digest: RqNO0GMw/+V7ZwHg7DlRWgB3L9A=
+
+Name: classes.dex
+SHA1-Digest: qKmT/P/Vizxu/H43nKZOoe1UrRo=
+
+Name: res/layout/activity_resume.xml
+SHA1-Digest: 30eD71H3n1Ej5NWSmXhTot54PAY=
+
+Name: res/drawable-mdpi/back.jpg
+SHA1-Digest: R1ajD4D/gsCEIDzMwPLVCWlAfCY=
+
+Name: res/menu/main.xml
+SHA1-Digest: QemAkb3WH79AEclC3BTjPvS2SUI=
+
+Name: res/layout/fragment_two.xml
+SHA1-Digest: jCKX0PkgU85dV0l+18yST7V9hsY=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: T1JwWuivpHqDKZS1rXu2QhgSx0w=
+
+Name: res/menu/anim.xml
+SHA1-Digest: 5CkSQxOqQ2vJf0kYzU+6I8D8akE=
+
+Name: res/menu/pie_graph.xml
+SHA1-Digest: LigzTZsISLZ9T3Z6VbQD+gtam8k=
+
+Name: res/menu/display.xml
+SHA1-Digest: MhTUPiFIugt/ZGvltKsZlsMnCR8=
+
+Name: res/menu/skill.xml
+SHA1-Digest: oIF4BcWyEqdN5vvA499Dsg1EwbM=
+
+Name: res/menu/fragment_four.xml
+SHA1-Digest: f9VqGaoP0qCtfg9DaBpfrXO3UHQ=
+
+Name: res/layout/prompts.xml
+SHA1-Digest: Nf32ievWyn+rRF7+1HpPX4yZEyU=
+

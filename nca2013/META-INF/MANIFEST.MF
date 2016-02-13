@@ -1,0 +1,1776 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/Rulesearch.html
+SHA1-Digest: C/mHW6mdfiZ4zG0ZmcZjeeHe+40=
+
+Name: assets/Section_300.html
+SHA1-Digest: CfbSbJe8TC/cSPVui46CC/VSZOs=
+
+Name: assets/Section_310.html
+SHA1-Digest: 0QGy4meMXc6rhUsPN/TbViEgdsE=
+
+Name: assets/Section_430.html
+SHA1-Digest: cScv6WZTThmWJUW51yjxT2ZG7wA=
+
+Name: res/drawable-hdpi/button_icon_view2.png
+SHA1-Digest: q/ZRwv0jEePs2Z980fhL/ui9Jro=
+
+Name: assets/Section_63.html
+SHA1-Digest: BkuTj01RnbUHUm9i4n7NTgKhNVM=
+
+Name: assets/Section_175.html
+SHA1-Digest: 4DcjrOR7efT0x6PQx+teig7TzC4=
+
+Name: assets/Section_16.html
+SHA1-Digest: +5bWN5SABq5XfrCg8R3COeCgICs=
+
+Name: assets/Section_348.html
+SHA1-Digest: zQzAgMXCjvXiruC52KFzWBidnow=
+
+Name: assets/img1.png
+SHA1-Digest: nFlzv+3f+2z4lQtJ6IJrsdQkT2Y=
+
+Name: assets/Section_251.html
+SHA1-Digest: /BuSKKoVRbkKAMOY6RvObi6Y3S8=
+
+Name: jsr305_annotations/v0_r47/V0_r47.gwt.xml
+SHA1-Digest: /f34xYwskAvrKqRB+jFPzJ8rPJg=
+
+Name: assets/Section_308.html
+SHA1-Digest: f2B98o5M0JNMwcwLpvXomQYgbxo=
+
+Name: assets/Section_99.html
+SHA1-Digest: Df4J8tMgVIhC7aNAOL+N3PieF8Q=
+
+Name: assets/Section_53.html
+SHA1-Digest: mp9z6ggXAxUj0i9KP4cW7LRwvQA=
+
+Name: assets/Section_137.html
+SHA1-Digest: gm3JHlaSNNfD9EpW33pMgtAfAtY=
+
+Name: assets/Section_20.html
+SHA1-Digest: gexeMP4+VhmbnWgU5B7aN2Ld7rY=
+
+Name: assets/Section_452.html
+SHA1-Digest: kSRt5D+g+SoizReGGE3BPLv7yko=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: assets/Section_398.html
+SHA1-Digest: VHlvuXT7S4ZOMqPgX1mqM+XYwzc=
+
+Name: assets/chap15.html
+SHA1-Digest: 6F2Oov9n1L3X53Oa4HjgyR4DJHY=
+
+Name: assets/Section_130.html
+SHA1-Digest: cxYqR6TeMhqikHx6f98aaHIsNsk=
+
+Name: res/layout/activity_sched_view.xml
+SHA1-Digest: 5WvRHTb/fJ+uhqbrXHPZDeCAsls=
+
+Name: assets/Section_46.html
+SHA1-Digest: W4EH2JUI4qifvAPYNS9UcFQwvMk=
+
+Name: assets/Section_108.html
+SHA1-Digest: ROY5AqaH9XOvpKEQm+AqLP/umlw=
+
+Name: res/drawable-hdpi/back1.jpg
+SHA1-Digest: EWnqSGRrE/dkfjbm5Ng/+D4u2sw=
+
+Name: assets/Section_266.html
+SHA1-Digest: GFwpISADTQYiH78mZxMuu2F3tNo=
+
+Name: assets/Section_45.html
+SHA1-Digest: /PixLkeZTOLipaW6wxYoVU3X2rE=
+
+Name: assets/Section_200.html
+SHA1-Digest: ksmroWhT0ToXl0zLatdjowFZd5M=
+
+Name: assets/Section_48.html
+SHA1-Digest: b7EdJoGXKN2sfhHLSIFLoL/Z078=
+
+Name: assets/Section_442.html
+SHA1-Digest: NkGIkODBT60QVbilahyFPETHBAY=
+
+Name: assets/Section_281.html
+SHA1-Digest: 9nps1YipD8Rhumr2kHnIk0EdVNY=
+
+Name: assets/Section_193.html
+SHA1-Digest: lhOt2zgtD6uZCZnaby26zhLzqhM=
+
+Name: assets/Section_421.html
+SHA1-Digest: +HI5zsyqT5dcGBHmZnpfeUltT4M=
+
+Name: assets/Section_167.html
+SHA1-Digest: OkWnmLApNxl0g64Ef9j0qrc/43E=
+
+Name: assets/Section_127.html
+SHA1-Digest: HxZJLrmrKpwUOeDyxAZ0g5hgNB8=
+
+Name: assets/Section_11.html
+SHA1-Digest: jR0jfg27pEPhNQnY5ZMK4gA0rCE=
+
+Name: assets/rule_12.html
+SHA1-Digest: fWWwlbYEJRu8sygM58NAz75ByDw=
+
+Name: assets/Section_432.html
+SHA1-Digest: C1sdGtG58nQ03P0b668OF0BQAB0=
+
+Name: assets/Section_215.html
+SHA1-Digest: 4i2cHsvE5taRkSaBAXx/eRj4ZTE=
+
+Name: assets/Section_44.html
+SHA1-Digest: aOxXE/o73ortPqBYQh45dIkOSuQ=
+
+Name: assets/Section_241.html
+SHA1-Digest: 3r3RqZpfvRj9Ow4gt7tDB9p8Ewo=
+
+Name: assets/Section_384.html
+SHA1-Digest: eFwkVY52NDCwhW9ELIrlWGbDdP4=
+
+Name: assets/Section_195.html
+SHA1-Digest: jJ47iLRSylioedQaD6OpK6C9Ckc=
+
+Name: assets/Section_87.html
+SHA1-Digest: 9Ja8Uu/UxPCdbKmCg6TkvNU+cQI=
+
+Name: assets/Section_428.html
+SHA1-Digest: eAmj4boY1hwJiDMQQ7inUgQ362U=
+
+Name: assets/Section_389.html
+SHA1-Digest: Hv+jGmixjIT4Vonj9PBA2RfAPcw=
+
+Name: assets/Section_453.html
+SHA1-Digest: AzKDUfXxbZ96c9ofVbrcJxv6jns=
+
+Name: assets/rule_23.html
+SHA1-Digest: s9GmuLdnIlIEtGVjL7/y3TE4Djc=
+
+Name: assets/Section_206.html
+SHA1-Digest: lf5Talgq63nXKR3/i9Gwj/B2QK4=
+
+Name: assets/chap13.html
+SHA1-Digest: WM2MH43GSu8lcGiWOUPJVL/rriE=
+
+Name: assets/Section_468.html
+SHA1-Digest: F3TNQt+CLFXvu4IP47YuQW8/h8Q=
+
+Name: assets/Section_400.html
+SHA1-Digest: Aqjww16bK6sRZ/6yXPqILtcsP/U=
+
+Name: assets/About.html
+SHA1-Digest: MJ4Q9YYjwbxXN4ogPF9x1YRw1WU=
+
+Name: assets/Section_299.html
+SHA1-Digest: I07q/U8L891rjfiKZAXopj5aUj4=
+
+Name: assets/Section_60.html
+SHA1-Digest: RiLQ99nGQyREwt9nJvS/Owmq3ck=
+
+Name: assets/Section_111.html
+SHA1-Digest: EUUoJ14DCQSZ7s+FTinxUAuok1I=
+
+Name: assets/Section_214.html
+SHA1-Digest: 1smXR4KN5/1ggBVDv61XMUsqITk=
+
+Name: assets/Section_347.html
+SHA1-Digest: E6kfB8T4ZtxpWte1IxlXa6IZU0s=
+
+Name: assets/Section_418.html
+SHA1-Digest: AD59HJurQRywL69WpwWePcqWdcE=
+
+Name: assets/Section_150.html
+SHA1-Digest: N+uFR5qA1IBRcJg8GkQWKnKNLac=
+
+Name: assets/Section_192.html
+SHA1-Digest: jl93VlB/UTFuAqgTeaULbWUsodA=
+
+Name: assets/Section_98.html
+SHA1-Digest: I4mHbl2H7fm/EeDwxHgws4bsvRc=
+
+Name: assets/Section_393.html
+SHA1-Digest: 1QVbQuX+mkgj5EaMK4G4AgzR9EA=
+
+Name: assets/Section_29.html
+SHA1-Digest: 4QbXzlTaG0BtgQOIMsUbw+9QmmM=
+
+Name: assets/Section_17.html
+SHA1-Digest: XXaK5x/iFMcXDGwUy3P4Ocv9X4s=
+
+Name: assets/Section_345.html
+SHA1-Digest: 6ax9WSLtZczxE7PTLTDjvC7Jn6w=
+
+Name: assets/Section_97.html
+SHA1-Digest: Q9MbqQD0CaB5SBoQGKrTzAYAOIE=
+
+Name: assets/Section_81.html
+SHA1-Digest: g98IPP3XOcshh8lBkc78hT6ThWw=
+
+Name: res/layout/activity_ui.xml
+SHA1-Digest: ecg4rYiuc3crzyRt8RS6fgwd5Xs=
+
+Name: assets/Section_61.html
+SHA1-Digest: NHV0kISuzLw3XErgipXNgELN3eU=
+
+Name: assets/Section_388.html
+SHA1-Digest: r6eUBQl8nYs4zMt4cdNUikjxF7c=
+
+Name: assets/Section_458.html
+SHA1-Digest: untyoKJbCaO5IC4eDyBgPi6dq/o=
+
+Name: assets/Section_249.html
+SHA1-Digest: nY0Uhzkdk+G4EQWcwgLw1Vlt1Xw=
+
+Name: assets/Section_194.html
+SHA1-Digest: bbHKac4XJutTVZwojw0/O+gQIHo=
+
+Name: assets/Section_9.html
+SHA1-Digest: +iMkwMp1Xy540pL9NckS6rZjoCM=
+
+Name: assets/chap18.html
+SHA1-Digest: 1zeHFAx6SJ+Zxf2jsM1rx+j3Vco=
+
+Name: assets/Section_25.html
+SHA1-Digest: e+zePzHDuvbmnS4fueNbnhFEOD4=
+
+Name: assets/Section_282.html
+SHA1-Digest: PZdop3KdRjzpDsfQFHkUdTj1sZA=
+
+Name: assets/Section_212.html
+SHA1-Digest: j6FpSrwoPPA1vYiYyd4ND6Y8tGg=
+
+Name: assets/Section_362.html
+SHA1-Digest: RjD7BbBE6QBsq5UFIHpktDZpT+A=
+
+Name: assets/Section_429.html
+SHA1-Digest: YSb+kWxnBI3XWekjJf9ZReiTFoM=
+
+Name: assets/chap24.html
+SHA1-Digest: QjH9WqDoOgqO0F9ByAGfrPwWdHc=
+
+Name: assets/rule_3.html
+SHA1-Digest: mta4OyYxxc0NPBeO7q0PwJ4+gac=
+
+Name: assets/rule_18.html
+SHA1-Digest: 9Ap0s7a8nwLinXi8ajeoARPuGFM=
+
+Name: assets/Section_101.html
+SHA1-Digest: 7tK1XCungcRMmlzw5eTuzY0N9FY=
+
+Name: assets/Section_373.html
+SHA1-Digest: 2Ra986PlwV7b+6TAZ0icfeV3Ycw=
+
+Name: assets/Section_117.html
+SHA1-Digest: l+33yBcTlMh0JHlwkO4QkZsDkZg=
+
+Name: assets/Section_109.html
+SHA1-Digest: nCi0GJc8G8vTH8buqzQXJkAJJPE=
+
+Name: assets/Section_39.html
+SHA1-Digest: Ot34ahX4mNj0aCwzHFM1v/6fTgw=
+
+Name: assets/Section_270.html
+SHA1-Digest: G3mFBVIryRTJb+hwGX2Vwg2x73s=
+
+Name: assets/Section_31.html
+SHA1-Digest: wdpm+emhvwmnEqN6l2BYHxPAGeA=
+
+Name: assets/Section_71.html
+SHA1-Digest: 9Ur7lJ2YR41Dm5nBHdE5Zg+8PIk=
+
+Name: assets/Section_291.html
+SHA1-Digest: BgmYRWLa4YOjO/FrNpmNkrDK5iU=
+
+Name: assets/Section_288.html
+SHA1-Digest: RYMwkBVM5jSbGmN83bavsZ23hWI=
+
+Name: assets/Section_330.html
+SHA1-Digest: fv2wTgbJ7LuexUixlRKhg9bu2rc=
+
+Name: res/drawable-hdpi/button_icon_exit.png
+SHA1-Digest: Vwhn/BcQRFGMMvrqsi94DcqZsgk=
+
+Name: assets/Section_148.html
+SHA1-Digest: dmuL1WfN0f4JdRxkraySfYDxyW0=
+
+Name: assets/Section_263.html
+SHA1-Digest: 9gQoc/CZbff3FvO2fwjZWO87I+8=
+
+Name: assets/Section_260.html
+SHA1-Digest: al/JjJ7LqlpvpUG9z24y8Gbpdus=
+
+Name: assets/Section_38.html
+SHA1-Digest: Mwz1S3wsD+qQwWHLGsyTeMbiwmY=
+
+Name: assets/Section_424.html
+SHA1-Digest: X8gGIjmvCc/rFBkF2snFL/P05Zw=
+
+Name: assets/Section_234.html
+SHA1-Digest: tc5vQltsd89FkOAV4ZmOu6QS0o4=
+
+Name: assets/Section_410.html
+SHA1-Digest: HAYifbQVXSUKrdqAA8+h43j8Vuw=
+
+Name: assets/Section_233.html
+SHA1-Digest: aLdofd4duxSFfXSohb8CduIOQFM=
+
+Name: res/menu/search.xml
+SHA1-Digest: OAVukf5FN0VrPkSApEzgIIRB5mk=
+
+Name: assets/Section_262.html
+SHA1-Digest: TLVqtsWLuumtLzGmmvRrzJ5LmXQ=
+
+Name: assets/Section_355.html
+SHA1-Digest: VyJtOSaCuf5TTWc7BrCHpzZpnI8=
+
+Name: assets/Section_103.html
+SHA1-Digest: +9nREJMnnCIrK7puoLymV7aNsBw=
+
+Name: assets/rule_9.html
+SHA1-Digest: lFqcLAV+JabEYw8AsZzCZVii+bg=
+
+Name: assets/Section_82.html
+SHA1-Digest: vinFFbv56mi5DJUGxao8S4OYa5M=
+
+Name: assets/Section_174.html
+SHA1-Digest: yWYlNEofG1CDd0CF6OvXoFUHhoQ=
+
+Name: assets/Section_95.html
+SHA1-Digest: 10aAVq3LICI4Ap2Qaqq16/xeNiE=
+
+Name: assets/Section_143.html
+SHA1-Digest: AbT59wnBo+CdmwQo60WO2Ymhg1c=
+
+Name: assets/Section_325.html
+SHA1-Digest: NpO0g7QLUBK4TIiUt0fWCeKrwJM=
+
+Name: assets/Section_283.html
+SHA1-Digest: i4JbCn+qmMMzyhwi6WnnpYE+zfA=
+
+Name: assets/Section_242.html
+SHA1-Digest: LcRFTLGaiGakoZcurNxAJtqLPaU=
+
+Name: assets/Section_228.html
+SHA1-Digest: b9yaXEKD6/d+xEQvokSN0kt7Vfk=
+
+Name: assets/Section_189.html
+SHA1-Digest: 0U0P0OfjufyPeFzoA8gw6TC7+Ss=
+
+Name: assets/Section_163.html
+SHA1-Digest: sfpSl3h9X2kUoMqrqLJkZNTlUWE=
+
+Name: assets/Section_317.html
+SHA1-Digest: Vbbex7/TckGON56oDKf/LAKyWY8=
+
+Name: assets/rule_19.html
+SHA1-Digest: CnaDMLpAYmE5h9fwvKt0+qIy1ms=
+
+Name: assets/Section_462.html
+SHA1-Digest: DMnS4UAyFUaiG2mdY/xTnkGPJFM=
+
+Name: assets/div.css
+SHA1-Digest: n+cW6TG6S8JKDmcfDm8zFBhZA/Y=
+
+Name: assets/Section_250.html
+SHA1-Digest: ZJWCcKDCsSlM1YWl42ZzauIHVTo=
+
+Name: assets/Section_208.html
+SHA1-Digest: yRTMObEaYsTiA5Gvbm8aj9KN72Q=
+
+Name: assets/Section_203.html
+SHA1-Digest: 66JMMgfX+bK04dQCzHNhSIm0xTI=
+
+Name: assets/Section_276.html
+SHA1-Digest: 4sCmTZ5abvufbeXiInMOducrSdU=
+
+Name: assets/Section_90.html
+SHA1-Digest: LaHE4cdx+KN0Q2B9cOfTfFT53nA=
+
+Name: assets/Section_257.html
+SHA1-Digest: Pmh1NPK468nJNvHQ3346YPSui7o=
+
+Name: assets/Section_382.html
+SHA1-Digest: HupEZqVZquHOFdJAJytCLulWp5I=
+
+Name: assets/Section_244.html
+SHA1-Digest: CpBAjlRruEZFqRqa+CT6rTzgvGI=
+
+Name: assets/Section_243.html
+SHA1-Digest: Ecv/Hql+C9RFSPoJm8Nqq+pa+sE=
+
+Name: assets/Section_231.html
+SHA1-Digest: 4MBGPh5Oros6ZVRKOd6jKgPGfSs=
+
+Name: assets/Section_42.html
+SHA1-Digest: FpBLz75iIEBK7WwpkCVB8sP+++s=
+
+Name: assets/Section_318.html
+SHA1-Digest: WarAtthozbK7YwW+0AI/D8qe+8M=
+
+Name: assets/Section_4.html
+SHA1-Digest: Vd2adfqV3nmUq1FH49GakAn7rTg=
+
+Name: assets/Section_394.html
+SHA1-Digest: R6bfqv3I6sZx9e1H68a4+a/mZ8I=
+
+Name: assets/Section_286.html
+SHA1-Digest: PyaaEkXi665C65SwiHfaY7bLzEQ=
+
+Name: assets/rule_14.html
+SHA1-Digest: sJIfSUGhdr/hjJa1Sky1OjEGlfc=
+
+Name: assets/Section_147.html
+SHA1-Digest: TESL2p2tLt4wB1T0Qq4cnkA/Drw=
+
+Name: assets/Section_182.html
+SHA1-Digest: S0s0Ab9pH4RrqGYeJTRfwuODqjw=
+
+Name: res/drawable-hdpi/ca_icon.png
+SHA1-Digest: weBmIKS70WzYYYh4nZEByfq01v8=
+
+Name: assets/Section_47.html
+SHA1-Digest: PAbKtPqh0T/imesq/ilt9txKB4E=
+
+Name: assets/Section_296.html
+SHA1-Digest: mW5JG9JcubXWr+be8HWe14q6/hc=
+
+Name: assets/Section_74.html
+SHA1-Digest: LZd4qLwLgWsZ0lVpI2333eUObtg=
+
+Name: assets/Section_248.html
+SHA1-Digest: +ReWK4w46s61QrxqT0XS7AUBH04=
+
+Name: assets/rule_7.html
+SHA1-Digest: O2HAFw7JL35I0ZYM5aWakz9/ccI=
+
+Name: assets/rule_17.html
+SHA1-Digest: MLCMSNOk01uH6SngHwXbLGAZJQg=
+
+Name: assets/Section_145.html
+SHA1-Digest: WkIGVAHwcNzVSkbMaobxmbVLyDc=
+
+Name: res/drawable-hdpi/ic_action_help.png
+SHA1-Digest: VRC/rEH/S5uk1WtkhjQVc2worFY=
+
+Name: assets/Section_144.html
+SHA1-Digest: dCJHRudTdpVOv1VNbJYt5rQutyU=
+
+Name: assets/Section_160.html
+SHA1-Digest: HpQb6Ww0YzHam4KekZ8G/0A7wDk=
+
+Name: assets/Section_354.html
+SHA1-Digest: 36VuWe1V3LrpTtQa3LUp7C83m20=
+
+Name: assets/Section_423.html
+SHA1-Digest: cmsac4MbCgqRzOzwYaw5f7J/Yic=
+
+Name: assets/Section_217.html
+SHA1-Digest: rlxIL02QRE+caWQAIrw1OZbS6rY=
+
+Name: assets/Section_368.html
+SHA1-Digest: yUrXnOLBYQ5ETJ6EmpPbsJh/YMA=
+
+Name: assets/Section_435.html
+SHA1-Digest: 2v46s39T+qdW6M+Nhq5nqKgA53A=
+
+Name: assets/Section_122.html
+SHA1-Digest: N/ylPpCj9F2tHC4maSES5/fZlBc=
+
+Name: assets/Section_239.html
+SHA1-Digest: IpBkpNi+Nrk5cQ5Do1b26t9879I=
+
+Name: res/drawable-hdpi/button_icon_view1.png
+SHA1-Digest: 3vUnkatS+ZC9KaaQSwzOQHJg9w8=
+
+Name: assets/Section_380.html
+SHA1-Digest: F8QVR+6EmQFSdti/pZ4N2IC4/bk=
+
+Name: assets/chap6.html
+SHA1-Digest: +X3n1eNFMPx+ZOVZP1AW7/uzw7o=
+
+Name: assets/chap14.html
+SHA1-Digest: LrEr9Nb76zOgC+yM5DqK+TWatjs=
+
+Name: assets/Section_202.html
+SHA1-Digest: oIucWHE+994d1k/HUCWjXNAKzCI=
+
+Name: assets/Section_237.html
+SHA1-Digest: nJ3bpSSuhuOCnF1dzhrlqGeDqJg=
+
+Name: assets/Section_447.html
+SHA1-Digest: psgaMKu22lrxeMsknDU8hrzG7bE=
+
+Name: assets/Section_179.html
+SHA1-Digest: QUgaGrMa+xwezSmsnHZGrsfAjAw=
+
+Name: assets/Section_396.html
+SHA1-Digest: RG4zFPkVQwkA88WGB1Dv5sB7wGg=
+
+Name: assets/Section_156.html
+SHA1-Digest: yBlnfmPDMbVzmnNp3YBGiTSILA4=
+
+Name: assets/Section_390.html
+SHA1-Digest: yZlSbM5VfAlonDfDaWyijux5IVE=
+
+Name: assets/Section_30.html
+SHA1-Digest: s0piI6E8S5GZVGjmRrsBsya6PVQ=
+
+Name: assets/Section_76.html
+SHA1-Digest: hmXLNU8vR/zjvDwLm5VStq3vNr8=
+
+Name: assets/Section_72.html
+SHA1-Digest: FRt1NiNFc3mWHwbfPma4pMR4LtQ=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: assets/Section_261.html
+SHA1-Digest: 6PLBBO3XykFyPigokVKIW5/ImHI=
+
+Name: res/menu/ui.xml
+SHA1-Digest: NzCEEW32AraIa0B3FbK77BiY+K4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: WCH/EfrAy2mg0kBhayI01Fj2yss=
+
+Name: assets/Section_402.html
+SHA1-Digest: 1tI1FJVGtmV3sO7dTk9YC/9exR4=
+
+Name: assets/Section_84.html
+SHA1-Digest: Pvt0eIY8xy1WZD/EWRYRM33sp70=
+
+Name: assets/Section_259.html
+SHA1-Digest: HWCVOFZeBcxwwTTANuvN9WCSpm8=
+
+Name: assets/Chaps.html
+SHA1-Digest: ljR836UvLVYnbC1YNT3gmDQdiOo=
+
+Name: assets/Section_230.html
+SHA1-Digest: 0/msHsBpcCittyJhrmK9edqgT9A=
+
+Name: assets/Section_357.html
+SHA1-Digest: 2oQcZ22HfIfIaPRPaDuj2MpwuQ8=
+
+Name: assets/rule_20.html
+SHA1-Digest: N1RibtIR8/xd13kLkiJHFIHiSho=
+
+Name: assets/Section_133.html
+SHA1-Digest: g9w/XQ/M0A1L3Nb0w8qK54O9grY=
+
+Name: assets/Section_232.html
+SHA1-Digest: sZemLB5Xs54ThVzy5oUMfeMCS0o=
+
+Name: assets/Section_337.html
+SHA1-Digest: V7qdQAg2KGUcDXDac+k+7BVf6kU=
+
+Name: assets/chap29.html
+SHA1-Digest: PVZvumKwddf918w8yj7RJ1O1HHw=
+
+Name: assets/Section_338.html
+SHA1-Digest: sytVTbJF1ygsK6n+xMxyWBfjs6I=
+
+Name: assets/Section_102.html
+SHA1-Digest: lYFr/yVxSvYANoznW8ynfCj0xjI=
+
+Name: assets/Section_405.html
+SHA1-Digest: 18Y1oVuqGeJkV14cqN082NpayCg=
+
+Name: assets/Section_381.html
+SHA1-Digest: XMuYUEkWx4SBUF81xSQ10XEMdKI=
+
+Name: classes.dex
+SHA1-Digest: LCgc3lSn3uCATqeFZI8qCPsjvbU=
+
+Name: assets/chap19.html
+SHA1-Digest: jUsI7xQ8tz0YrBwVwpYEx7Y+wU4=
+
+Name: res/menu/search_sched.xml
+SHA1-Digest: OAVukf5FN0VrPkSApEzgIIRB5mk=
+
+Name: assets/rule_26.html
+SHA1-Digest: l70VnR03c1DIOfpdatUUxurwSJI=
+
+Name: res/layout/activity_search_rules.xml
+SHA1-Digest: 5b5v0HnwCaYfCpJDhKCD79Xhffg=
+
+Name: assets/Section_329.html
+SHA1-Digest: yLBvyuaASFfuxvUVy5L0JQkzIks=
+
+Name: assets/chap27.html
+SHA1-Digest: 1qVuNyOVgB2/Tc95YNnX5u7tEqw=
+
+Name: assets/Section_224.html
+SHA1-Digest: ZSv8YVxtdzq1+YziF0jHOx3iiWQ=
+
+Name: assets/New Text Document.txt
+SHA1-Digest: CZLtcD74egfQiQC6Ct74vDNg8iw=
+
+Name: assets/chap9.html
+SHA1-Digest: ERdGcHFoiwewJ+xaYJt5/6y48Bk=
+
+Name: assets/Section_245.html
+SHA1-Digest: nKvD0/DR6WsgvOu3A2zv1NthyVg=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: assets/Section_188.html
+SHA1-Digest: hfJo+AcO4YdVVz0NLkUJBj7mb+4=
+
+Name: assets/Section_370.html
+SHA1-Digest: sfXy3im8FYL0xtyJD+Ac5ZWB/z0=
+
+Name: assets/Section_256.html
+SHA1-Digest: zVoymLXVXzKMz5uizNY0dxgrjjg=
+
+Name: assets/Section_173.html
+SHA1-Digest: r7Vg+0J1VC6+xyZbgY/f/ZSgwMo=
+
+Name: res/layout/activity_search.xml
+SHA1-Digest: 5b5v0HnwCaYfCpJDhKCD79Xhffg=
+
+Name: assets/chap25.html
+SHA1-Digest: FYNvFsMtgGyhyK2lXOMALHicxg8=
+
+Name: assets/chap20.html
+SHA1-Digest: 5VqoWmJWo1v2hPyHJGgoTd9iakM=
+
+Name: assets/Section_332.html
+SHA1-Digest: p3iwgibOxIfecKhk1CcnJROatVo=
+
+Name: assets/Section_352.html
+SHA1-Digest: /c5O4gy2xKB873WRmWCKKfvNaR0=
+
+Name: res/drawable-hdpi/button_icon_rate.png
+SHA1-Digest: 09hhjxknhmhAOg6vApPX104zpTU=
+
+Name: assets/Schedule_7.html
+SHA1-Digest: UntXvaqS3aeBfzCjKp55WWWlVP8=
+
+Name: assets/Section_343.html
+SHA1-Digest: fBbcEgfPIxdQuVG21wjB2grOT4U=
+
+Name: assets/Section_399.html
+SHA1-Digest: WJX/ktYLAjK8Sc/CMLfeMGBAFtE=
+
+Name: assets/Section_446.html
+SHA1-Digest: vphPvGV9YCydrU2Ak1KAMayaV+g=
+
+Name: assets/Section_207.html
+SHA1-Digest: jGZW9c/lAosxpVKeDya2nciorI4=
+
+Name: assets/Section_277.html
+SHA1-Digest: AWpZdjeNZgLt/2BDPqlt+21pcQQ=
+
+Name: assets/Section_220.html
+SHA1-Digest: vGwWvTDk41VRTBtErqaqQqBnPdA=
+
+Name: assets/Section_58.html
+SHA1-Digest: FsN41cRfSBdw8riu69LwAgX1T0o=
+
+Name: assets/Section_312.html
+SHA1-Digest: M2x8gATKFC+h8COG/dfyknDekAo=
+
+Name: assets/Section_6.html
+SHA1-Digest: jOB+u23wXrKiraWq16D+f9SBRpo=
+
+Name: assets/Section_56.html
+SHA1-Digest: j+REI6gIcj5ZfX6N4E4BjifbOk0=
+
+Name: assets/Section_69.html
+SHA1-Digest: r5ldkza6fdUw3Y9y8EaUnDJYuNk=
+
+Name: assets/Section_404.html
+SHA1-Digest: /dGQVcW68eNrRNSBFRWPeR95Kqw=
+
+Name: assets/Section_238.html
+SHA1-Digest: 10Ido6lAo5A6GbGlTGxEvGBmmX8=
+
+Name: assets/Section_1.html
+SHA1-Digest: k8WTZ2HUC3WxUElWePRZXZ77/4M=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: UBXHoAGmseBGDwjR6/MFHfcIK7g=
+
+Name: assets/Section_115.html
+SHA1-Digest: IhAQ1UOFRwzZ8bMTC1n5qDHl9CQ=
+
+Name: assets/Section_440.html
+SHA1-Digest: IwX2GBJiGZQgqztQ3yECJoxRgqg=
+
+Name: assets/Section_293.html
+SHA1-Digest: YB9PQvcAR0u6Ky5HYoupbvfMOdI=
+
+Name: res/layout/activity_about.xml
+SHA1-Digest: 5WvRHTb/fJ+uhqbrXHPZDeCAsls=
+
+Name: assets/Section_344.html
+SHA1-Digest: 0DwGFCCbzwLxliYQ20xUBaVDfJk=
+
+Name: assets/Section_51.html
+SHA1-Digest: F0eVefo6VIRRVQvWjNiRz+QBLNY=
+
+Name: assets/Section_22.html
+SHA1-Digest: 7PcziOOMjRjuwk4vF5m8D6LzzBs=
+
+Name: assets/Section_456.html
+SHA1-Digest: fGLtpPv0C+dxaWapr/hnxxbt5Ro=
+
+Name: assets/Section_225.html
+SHA1-Digest: jhBB/3VY+owSgmvcsrsLBc9wogw=
+
+Name: assets/Section_107.html
+SHA1-Digest: aBqvcC/A1xzDNBv1sv7k+5Uc81k=
+
+Name: assets/Sectionrulesearch.html
+SHA1-Digest: 9ApIO1fdsKYPUmxR0XszYTGP7do=
+
+Name: assets/Section_455.html
+SHA1-Digest: KE6BIu/aURkS9JAYx4Vu5WpClAM=
+
+Name: assets/Section_180.html
+SHA1-Digest: gv8UEHyY3rGZIGkIldr5Zha4gLo=
+
+Name: assets/Section_279.html
+SHA1-Digest: aYUdEUFDVoZpPZN5boGD+y0L4jY=
+
+Name: assets/Section_284.html
+SHA1-Digest: wUsnZNwZdLinM3cH55oZjoWZcNo=
+
+Name: res/drawable-hdpi/ca_wall.png
+SHA1-Digest: 2UIbtI08fwwldi8FokPXk54Jt7k=
+
+Name: assets/Section_121.html
+SHA1-Digest: KKdDsdW+WjjD2FRgb1MtIyulEO0=
+
+Name: res/drawable-hdpi/red.jpg
+SHA1-Digest: jsvGULnYhOTeKarNjhpu5tqVDLE=
+
+Name: assets/Section_437.html
+SHA1-Digest: Duv14zUGw5sXmMyFdQqx3waKg60=
+
+Name: assets/Section_431.html
+SHA1-Digest: T7dhAqbVmoBZkPkg1DEXhM1gsbA=
+
+Name: assets/Section_197.html
+SHA1-Digest: el6GPUF2XetOJPxwu1HLbAkwacw=
+
+Name: assets/Section_235.html
+SHA1-Digest: p+hWC27hcUn5yt91BSUqfuKJ59E=
+
+Name: assets/Section_190.html
+SHA1-Digest: LUsKhJ/1PYIl8h/qMKeI/Cpd4WM=
+
+Name: assets/Section_116.html
+SHA1-Digest: qnVA/RzrLbEC1srwhWHE8zAZYC8=
+
+Name: assets/Section_210.html
+SHA1-Digest: lTwq+2cWgYy2HfSxzYZv0Va5zdY=
+
+Name: assets/Section_18.html
+SHA1-Digest: aDLFFs89+rhakAkJYyGGuGTxL2o=
+
+Name: assets/Section_290.html
+SHA1-Digest: hbnhhfiPHeM49ZIol+3zhIYpWt0=
+
+Name: assets/Section_379.html
+SHA1-Digest: OBqHFVCH8hI50837Z1qZq71cF5g=
+
+Name: assets/chap11.html
+SHA1-Digest: KJMGkMI6R36sIZnySFm/iRk4j5U=
+
+Name: assets/Section_204.html
+SHA1-Digest: Mq93gyAPdzim8T8luUcsixRy//A=
+
+Name: assets/Section_465.html
+SHA1-Digest: mRuyS2u46f0SsFYiXQaGAL1xPWg=
+
+Name: assets/Section_141.html
+SHA1-Digest: LirBIZjZsEJ56njLeG+TYKXHutU=
+
+Name: assets/Section_444.html
+SHA1-Digest: TUVaFmahpaMHnPUmrgjQId/4Wyc=
+
+Name: assets/Section_201.html
+SHA1-Digest: Qg0kYOiq4SFcpyqpfouN5flnTG4=
+
+Name: assets/chap28.html
+SHA1-Digest: vpuTAk7xsFtVsgq3r7tt0dSRnBw=
+
+Name: assets/Section_267.html
+SHA1-Digest: wUR8apk1erHPhui9SJrj/652SzM=
+
+Name: assets/Section_198.html
+SHA1-Digest: sMmB5/E0YjGyd5FhRVDPVIvwDqE=
+
+Name: assets/Section_268.html
+SHA1-Digest: Pf4EEh43Y1Ef/DonXcosub6TxZs=
+
+Name: assets/Section_315.html
+SHA1-Digest: U/8CyN9yFJc+NEz0IUTMdOAiZWg=
+
+Name: assets/Section_209.html
+SHA1-Digest: Ur1vrl+9+KlHMg5CKutcfp8d24g=
+
+Name: res/menu/rules_view.xml
+SHA1-Digest: I/LsTiQj8jVG8lfctWoSUvAtarA=
+
+Name: assets/Section_65.html
+SHA1-Digest: 5OMQzoulq4hOdf+Mr6pgOB7rj6o=
+
+Name: assets/Section_15.html
+SHA1-Digest: EY+lZYieq2iCxFlPHDb5ZySLdwI=
+
+Name: assets/Section_100.html
+SHA1-Digest: f/lNSaO29UUjr6cFsXbhi76Zo60=
+
+Name: assets/Section_2.html
+SHA1-Digest: f+Qy5vB56fp8jq11FimQE6AE9gU=
+
+Name: assets/Section_50.html
+SHA1-Digest: zh68C+rq4C/JeKD99xzIUF/Csg0=
+
+Name: res/drawable-hdpi/button_icon_search.png
+SHA1-Digest: bQ/Qbj7lbZkATsFE6K3ZS+RgUko=
+
+Name: assets/Section_19.html
+SHA1-Digest: 2HQWGBkau+7bUE4T8IlLzVbVcgU=
+
+Name: assets/Section_229.html
+SHA1-Digest: uSVYyDU3ZqlMv8FBcn+9ixnlbSU=
+
+Name: assets/Section_412.html
+SHA1-Digest: tM8Ty3rFecWkac423m+0KFYCBoY=
+
+Name: assets/Section_426.html
+SHA1-Digest: bw5by7SGYGo9b5GZqevhS/ZBMkc=
+
+Name: assets/Section_255.html
+SHA1-Digest: 85ttvz/fpEG/2PbytdIkCPnuTEE=
+
+Name: assets/Section_305.html
+SHA1-Digest: rQTpPEHsSjDIPZXnb4V1xnjpA+M=
+
+Name: assets/Section_153.html
+SHA1-Digest: FTlJUNCi6fC5sPV3sOszmd+UnXw=
+
+Name: assets/Section_271.html
+SHA1-Digest: lAn1/XolKWHeVf0bBU5x3yfnLjE=
+
+Name: assets/Section_448.html
+SHA1-Digest: peqhmi5TTtjq0YSZ49tanFj3LxY=
+
+Name: assets/Section_387.html
+SHA1-Digest: SqAe5288z8j2MyL1ahgGh0WRNGE=
+
+Name: assets/Section_411.html
+SHA1-Digest: u6tl0h6fxubw9uQPRTCd/GqCqCM=
+
+Name: assets/rule_10.html
+SHA1-Digest: f+xxiN36ZhDLOd7g4qAv1UttuMQ=
+
+Name: assets/Section_433.html
+SHA1-Digest: e8e+vVzLFMFPHMoBMzvqPWK1Ijs=
+
+Name: assets/Section_314.html
+SHA1-Digest: zXB43KXM3J05P2Nw6qoWB3V0o3Y=
+
+Name: assets/Section_374.html
+SHA1-Digest: 05nash0xOZ2+L2pP9EI5KLhMTnM=
+
+Name: assets/Section_132.html
+SHA1-Digest: mClq/IoHbrr/zFKwnbJS8J1ckLI=
+
+Name: assets/Section_302.html
+SHA1-Digest: djEk1G2VtJIzEtQ7EYV/gVwXYEQ=
+
+Name: assets/Section_221.html
+SHA1-Digest: gBezCHPm9bo+2KmYBDmkSuuGp/o=
+
+Name: assets/Section_119.html
+SHA1-Digest: jZXKACLTiJvBGXNZy+OxOyXXRm4=
+
+Name: assets/Section_331.html
+SHA1-Digest: jyS1OSYQ6CVgWS6KRD2EK6MEyN4=
+
+Name: assets/chap26.html
+SHA1-Digest: q/23QoEX0lLS4rjru4HkxJ6fGco=
+
+Name: res/menu/chapter.xml
+SHA1-Digest: 1Nk9zYYLiCuvScExUnZ1iI49m6s=
+
+Name: assets/Section_27.html
+SHA1-Digest: OMYkf77WB9YhPWih61T+CNev7xs=
+
+Name: assets/Section_79.html
+SHA1-Digest: X88iInUs6E8yNulaa5Y0R6LeiFA=
+
+Name: assets/Section_258.html
+SHA1-Digest: h46gCo7v8w+7sUvg1pA/jCk4wrU=
+
+Name: assets/Section_113.html
+SHA1-Digest: zoEPURvrRy96rLFAngJPcYfFEzk=
+
+Name: assets/Section_375.html
+SHA1-Digest: kqA65/OXgT7zEMxDyQkEDdsruHs=
+
+Name: assets/Section_92.html
+SHA1-Digest: abawbJWGQLFJirw1U/ngGNwBKgY=
+
+Name: assets/Section_414.html
+SHA1-Digest: DCXfjzahruTnE45Y//MIr6KwDBo=
+
+Name: res/layout/activity_rules_view.xml
+SHA1-Digest: kp8G03cMEzQT07ia3fjHUNEAAME=
+
+Name: assets/Section_88.html
+SHA1-Digest: DOGPZbFk1KlSGP2Twzv6ZmJKjZQ=
+
+Name: assets/Schedule_2.html
+SHA1-Digest: wLfJYlEylynozlReZ5YYQPCSW38=
+
+Name: assets/Section_96.html
+SHA1-Digest: 9JybAN25SDlxm2+xkoUglNPnX3s=
+
+Name: assets/Section_359.html
+SHA1-Digest: 2bszUJYXyDbpnIjD/HPmSkYfWuI=
+
+Name: assets/Section_40.html
+SHA1-Digest: TWhcOn2YeeZufaRe4kDKdLks4Ys=
+
+Name: assets/Section_349.html
+SHA1-Digest: atefcHIV8tjcvCwjzaX7EKx6Fwo=
+
+Name: assets/Section_392.html
+SHA1-Digest: u7eZpNbTkUdAVArcCxf0I8oLGdg=
+
+Name: assets/Section_185.html
+SHA1-Digest: lo7KACf6uACb/NM2R17s7iv33rI=
+
+Name: assets/chap23.html
+SHA1-Digest: rJm/ZQsNUB38BCE9D5vLKY+KFus=
+
+Name: assets/Section_32.html
+SHA1-Digest: pIiFPCs0bjswQ3tm7IwRGUFNN6w=
+
+Name: assets/Section_334.html
+SHA1-Digest: zibMZ3F9TLa+Oz7/SWZe8RD7mQs=
+
+Name: assets/Section_397.html
+SHA1-Digest: L+Ox8xZkEPWYEkmD8yfsyHQRzlU=
+
+Name: assets/Section_401.html
+SHA1-Digest: ipyBOMUNwN4pRl4ess0kQZAyU0I=
+
+Name: assets/Section_416.html
+SHA1-Digest: GIQIYGMDCgtwObvc0gPiK5TzfTc=
+
+Name: assets/chap5.html
+SHA1-Digest: We4ED7XRfttRjiViyBqIY+iuneg=
+
+Name: assets/Section_213.html
+SHA1-Digest: RjlAq0IESlM5fDRV5mSOG/FY4YA=
+
+Name: assets/Section_41.html
+SHA1-Digest: J4bQ4yex0BFrQyphTuL+GdsR+bY=
+
+Name: assets/rule_22.html
+SHA1-Digest: IeBln6ZC2KlfKk/sVyvgIAZ7ikI=
+
+Name: res/menu/search_rules.xml
+SHA1-Digest: OAVukf5FN0VrPkSApEzgIIRB5mk=
+
+Name: assets/Section_470.html
+SHA1-Digest: QwzQlfmAn13AcRrozuQqLLvZTVI=
+
+Name: assets/Section_364.html
+SHA1-Digest: dg2kcDoJXpJWLJqbl/CdyaNV3r8=
+
+Name: assets/chap2.html
+SHA1-Digest: 8NCAYuQQL1f1uW9g+InmNQVM/K4=
+
+Name: assets/rule_21.html
+SHA1-Digest: CMWADxHKASFI5MB7vMM2bvc1FQA=
+
+Name: assets/Section_14.html
+SHA1-Digest: v23Oj6KhtW+h4Xfg9G8WF78y44I=
+
+Name: assets/Section_155.html
+SHA1-Digest: 6d2l0UusCcCFbpbyVyz1j60K27M=
+
+Name: assets/Section_246.html
+SHA1-Digest: 95qEmo5Ib5mNKd5snzM+OjB1Gtg=
+
+Name: assets/Section_459.html
+SHA1-Digest: pZzJeco4dR6TwKFV3q7X0hpYxKs=
+
+Name: assets/Schedsearch.html
+SHA1-Digest: srQtpxf2YCbo+pchcSfwGQoHmxE=
+
+Name: assets/Section_162.html
+SHA1-Digest: +VtzcsLz39aeSoYItUSruAid7FY=
+
+Name: assets/Section_407.html
+SHA1-Digest: w1iX6EjkgiYyJSprvEaEuGAPR0U=
+
+Name: res/menu/about.xml
+SHA1-Digest: OAVukf5FN0VrPkSApEzgIIRB5mk=
+
+Name: assets/Section_319.html
+SHA1-Digest: 1K7DtjxZuT+laXXI3FzCj9Uh3H4=
+
+Name: res/menu/sched_view.xml
+SHA1-Digest: I/LsTiQj8jVG8lfctWoSUvAtarA=
+
+Name: assets/Section_253.html
+SHA1-Digest: bZdt5SOqaxR5TzO+9cPWFZ+bVhQ=
+
+Name: assets/Section_464.html
+SHA1-Digest: qdB+HwAmyXGp5K/qIbHArjwANWI=
+
+Name: assets/Section_138.html
+SHA1-Digest: Z9MaFpxL9IYK0mejJGPmoK8y9QA=
+
+Name: assets/Section_272.html
+SHA1-Digest: 4o/C5rHroIGgLOaImzR4UcpOxp4=
+
+Name: assets/Section_274.html
+SHA1-Digest: d5nctT1d2FGitlh8THaLp5nVvGo=
+
+Name: assets/Schedule_3.html
+SHA1-Digest: qOaFePur1Ga2IjtHyj411mv82HI=
+
+Name: assets/Section_136.html
+SHA1-Digest: ueoGuqSxYCkQAxHjHPblhyKN2Vg=
+
+Name: assets/Section_5.html
+SHA1-Digest: 0+fiq0zn2QcaVpxm7Mf4YAT7+lw=
+
+Name: assets/Section_134.html
+SHA1-Digest: LNvlQVUYmGC5BQ+XH3egEr59lQE=
+
+Name: assets/blank_page_search.html
+SHA1-Digest: DliCPYmaHEJMOLZS1HpdzbX9tRE=
+
+Name: assets/Section_120.html
+SHA1-Digest: cuv1UQ7dKxoAO8AveztkPcBSRr4=
+
+Name: assets/divbody.css
+SHA1-Digest: 9/v4Tr/S7LP9mRaiw4x8zd6N9uY=
+
+Name: assets/Section_449.html
+SHA1-Digest: /QPsdRCrnIJNmdAYsL0WMlsdXgk=
+
+Name: assets/Section_457.html
+SHA1-Digest: 8/3pXRT1PBa+W1nDpKK6ZDnpeEI=
+
+Name: assets/Section_114.html
+SHA1-Digest: OPJzoe4H68oLaz7moBpntPWKQ/E=
+
+Name: assets/Section_62.html
+SHA1-Digest: c7GC0Zcfc8UC7C0GyNg+eWCBrZQ=
+
+Name: assets/Section_35.html
+SHA1-Digest: JK3jfw93+LzsZGxWZEPZsz8LCrs=
+
+Name: assets/Section_377.html
+SHA1-Digest: 3HrJosDzgK6FXI25HlLSzAL9yiE=
+
+Name: assets/Section_378.html
+SHA1-Digest: Fa6CVhmbqrghQ7e3RHhCCdMu+O8=
+
+Name: assets/rule2.html
+SHA1-Digest: A4YAnz5/C+QrN3r7YQT1bzTTJ/A=
+
+Name: assets/Section_75.html
+SHA1-Digest: XPhyabiaxlTa75zlcR9BkZ4IRPM=
+
+Name: assets/Section_309.html
+SHA1-Digest: yNEeUBIiOrHCwCg532D2I89ItgM=
+
+Name: assets/Section_149.html
+SHA1-Digest: tneRUxomttAzWrMGGz1Oif11efg=
+
+Name: assets/Section_126.html
+SHA1-Digest: VxEbBkKwbHSOHZM/CClbUmZhyow=
+
+Name: assets/Section_289.html
+SHA1-Digest: YfNnR0HiewtLvqy56l0DXRt2TA8=
+
+Name: assets/Section_37.html
+SHA1-Digest: ieJz28wDfmkqbGqGgitSUAqt98Q=
+
+Name: assets/Section_223.html
+SHA1-Digest: mcsu6b2s2PzzApWA8sbMqJuDr0g=
+
+Name: assets/Section_361.html
+SHA1-Digest: c+FAFsbfCu3KWQDLu8pb/8frlqE=
+
+Name: assets/Section_64.html
+SHA1-Digest: ZIxT91TxP4HQdnzFmT1LC8e/jns=
+
+Name: assets/Section_443.html
+SHA1-Digest: Zjf6U/It6qe7VRwMqFFOD03UIWc=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: xto8VgevPUOH3ItkqRUQ+pd5sP8=
+
+Name: assets/Section_269.html
+SHA1-Digest: zyNQe8uxYG5Noqb+3lkfeTolLOI=
+
+Name: assets/Section_157.html
+SHA1-Digest: LgrysuVDzF+f1p6nf00aOQhdXfo=
+
+Name: assets/rule_5.html
+SHA1-Digest: CxKFFVt2bnX/p6Od13txewMS/vY=
+
+Name: assets/Schedule_1.html
+SHA1-Digest: GL96TOYn/zQB1rCwplEzhsZKDGQ=
+
+Name: assets/Section_28.html
+SHA1-Digest: 1nvXziSIYqpV1Y2PEUPQ8xzFsfc=
+
+Name: assets/Section_363.html
+SHA1-Digest: U/jMqL248iJ6tvGsAHu2PdXjbU0=
+
+Name: assets/Section_177.html
+SHA1-Digest: +IHs8AxtQfAfzKmU14FMPUQvHmk=
+
+Name: assets/Section_165.html
+SHA1-Digest: jjgSQPFm4+luue2v5XrSrEsolQw=
+
+Name: assets/Section_297.html
+SHA1-Digest: NJL9b4EwJN2vfvVGbjqtgGzDdhU=
+
+Name: assets/Section_164.html
+SHA1-Digest: +pqwIzdxHgC2kS7B8G/SMdLrbwM=
+
+Name: assets/Section_70.html
+SHA1-Digest: s8uDJJt9LrocMh4BXoQQJgxgboc=
+
+Name: assets/Section_371.html
+SHA1-Digest: myK8JkGigyaHtv0modZ3AJ9a+p4=
+
+Name: assets/Section_55.html
+SHA1-Digest: eNkzPCW/Qm4UCc4vnqfCDg5GbPI=
+
+Name: assets/Section_351.html
+SHA1-Digest: LTo1ugiYis+VmIjGLt/YLwxRoGU=
+
+Name: assets/Section_7.html
+SHA1-Digest: NQpFPX2q45E1XB8Vf5acFgTE84k=
+
+Name: assets/Section_463.html
+SHA1-Digest: WyAkt4GSMaakTXxe19sq1ao9YpM=
+
+Name: assets/Section_168.html
+SHA1-Digest: usxtKBA57URO0f5FtGGz9iupZc8=
+
+Name: assets/Section_158.html
+SHA1-Digest: cXpFc+c2iY9fq5V5TNQXMxDAbhE=
+
+Name: assets/Section_135.html
+SHA1-Digest: ZGfe8ErP6UsT8d1KQqi+9tMBa20=
+
+Name: assets/Schedule_6.html
+SHA1-Digest: 5e0azo1p4kcAvwyEIbrIfX84i1k=
+
+Name: assets/Section_306.html
+SHA1-Digest: YJY8tyyOoXGEmkM6D5I133cD8gI=
+
+Name: assets/Section_178.html
+SHA1-Digest: RgireFsbcp23KXjsVdsJvdl/udE=
+
+Name: assets/Section_33.html
+SHA1-Digest: CvRI4h4JP28eXxQoFd85MoFpkY4=
+
+Name: assets/Section_454.html
+SHA1-Digest: ki67+M/dsYLgtUeKT9fMJqNGzYU=
+
+Name: assets/chap4.html
+SHA1-Digest: rcW1t6GRba1Fja95kI41tMHqNfc=
+
+Name: assets/Section_129.html
+SHA1-Digest: RCH1k/MO4iToy4nymKkItW2FhxI=
+
+Name: assets/Section_383.html
+SHA1-Digest: d+CZtUyP3EHE38fjEe7mcjTF7iw=
+
+Name: assets/Section_73.html
+SHA1-Digest: AprU22tSsM19wj49u//b4ial74Q=
+
+Name: assets/Section_265.html
+SHA1-Digest: kdD5ZW3AA0gRIx2uMvQVFbepTaY=
+
+Name: assets/Section_36.html
+SHA1-Digest: 9ncLTEKNTkuO4IsE5uHAyM67QhI=
+
+Name: assets/Section_335.html
+SHA1-Digest: 4ORmeA3IBX9UWL3Ny0M8qmdxL3U=
+
+Name: assets/chap3.html
+SHA1-Digest: ALZraEsqDCkH7ju6OxAQ085npQ4=
+
+Name: assets/chap8.html
+SHA1-Digest: CBlOBnCgflOb8wPwAEB6sWhP63Y=
+
+Name: assets/Section_275.html
+SHA1-Digest: B6YCGwBzW3ghQpJFCK17zL08ztY=
+
+Name: assets/rule_6.html
+SHA1-Digest: XHlj/NF4ItcAnFWzlta6rcTchcE=
+
+Name: assets/Section_356.html
+SHA1-Digest: DgMks8ObV+O6E7fol8vmsWYR6zk=
+
+Name: assets/Section_8.html
+SHA1-Digest: z4j3JAxwoHc55+thP/qf11n2a/s=
+
+Name: assets/Section_280.html
+SHA1-Digest: sOviMwQCAjyMmE6u/a/iRLOIMUU=
+
+Name: assets/Section_292.html
+SHA1-Digest: z80BwvDIzyD9aiRopNxcrRLTeBE=
+
+Name: assets/chap7.html
+SHA1-Digest: CrXqhHyw2LIxMRMiJSGOgAl8q1E=
+
+Name: assets/Section_104.html
+SHA1-Digest: gz+5Jx2icTS7dcWC+MFsN5VmgmA=
+
+Name: assets/Section_146.html
+SHA1-Digest: cxL9whlBILDhduHHGewt2avO5+g=
+
+Name: assets/Section_105.html
+SHA1-Digest: oQ4FgmUJk1aOtQCrLCTdt26lH+I=
+
+Name: assets/Section_21.html
+SHA1-Digest: 8o5YdlOlObQmDiDZeiz1HH60YPs=
+
+Name: assets/rule_4.html
+SHA1-Digest: whetbnDz0yqjf+bfVK1mYVCdcUM=
+
+Name: assets/Section_360.html
+SHA1-Digest: HnHghQDSMSYtkQt8+lTVGIVXJUA=
+
+Name: assets/Section_427.html
+SHA1-Digest: k2/ybeXvSIoVoiZH0FrC/hfzVVU=
+
+Name: assets/Section_254.html
+SHA1-Digest: igA+FDBE5z9YG1JKNxZsFCVm2ek=
+
+Name: assets/Section_367.html
+SHA1-Digest: XJgw+CW94IEFkwWkBrcExyCI9vk=
+
+Name: assets/Section_23.html
+SHA1-Digest: 0l46GFXhZBhHQbEhkf373S5+xys=
+
+Name: assets/Section_273.html
+SHA1-Digest: KN+bMh3ju4smrP6GDmfjVffvx+8=
+
+Name: assets/Section_420.html
+SHA1-Digest: GQxlzuokDDtqh9PLTQBciyx698I=
+
+Name: assets/Section_43.html
+SHA1-Digest: 52zAMS3EkbL0nhZ4HYqxaMEJF+I=
+
+Name: assets/Section_316.html
+SHA1-Digest: Fq4yd8k8yerOl3JbajBq9ha5YIA=
+
+Name: assets/Section_303.html
+SHA1-Digest: c+UEhgl8qJfJsdXERuUErVEsP9E=
+
+Name: assets/Section_322.html
+SHA1-Digest: LSUq1Hz2czMagKuB8C9DfoC5DgI=
+
+Name: assets/Section_422.html
+SHA1-Digest: OiFTB/t98zlWPnFWfTlB/+OWp8U=
+
+Name: assets/Schedule_4.html
+SHA1-Digest: 2wMN3B8znB97E/xfdJq4EkSH/Es=
+
+Name: res/drawable-hdpi/button_icon_about.png
+SHA1-Digest: LEeWKCrRwKleq0yglZZyuLlcGK0=
+
+Name: assets/Section_436.html
+SHA1-Digest: 2XBA0A5c7pJFbRzH9ZBx8AfZ7gI=
+
+Name: assets/rule_2.html
+SHA1-Digest: +X+Yi4wuL9Se9K8gg/uoVvthOxE=
+
+Name: assets/Section_181.html
+SHA1-Digest: nWvdzOEyRuD97jBHFRDky3fQhfk=
+
+Name: assets/Section_67.html
+SHA1-Digest: /xL0gso0rnc3iHOiw85SPHWnMQI=
+
+Name: assets/Section_350.html
+SHA1-Digest: NOnoV4xoxXULs3V4yvBKZM10M7Q=
+
+Name: assets/Section_13.html
+SHA1-Digest: FBlmonSjSloKAoZ3nqv5w9byIZE=
+
+Name: assets/Section_199.html
+SHA1-Digest: cC976lVROyEt0xWPagPANqUHl9o=
+
+Name: assets/Section_227.html
+SHA1-Digest: vaK6UsYjV16ZhYjYL77S+qzIdUc=
+
+Name: assets/Section_413.html
+SHA1-Digest: Y3mFyCQQcAR6aNg4w7mcy7lHMWg=
+
+Name: res/menu/main.xml
+SHA1-Digest: OAVukf5FN0VrPkSApEzgIIRB5mk=
+
+Name: assets/rule_11.html
+SHA1-Digest: bxW5nV++ON/iT5UJFZvv6MwIMhE=
+
+Name: assets/Section_12.html
+SHA1-Digest: NnkDDTisgkVajR4DAUpwZMWQUMo=
+
+Name: assets/Section_391.html
+SHA1-Digest: KcVmBzqbP6PedHSyOLpeCoYK4us=
+
+Name: assets/Section_66.html
+SHA1-Digest: luxvbRMuXbRQx4RhE7lTlbW4DHY=
+
+Name: assets/Section_339.html
+SHA1-Digest: x/A77Ww0ldQYeSLee2Y2EvaJ/uk=
+
+Name: assets/Section_307.html
+SHA1-Digest: Y39dqd+xPC3bqtPP+EqIj6s2+8E=
+
+Name: assets/rule_13.html
+SHA1-Digest: +8i2PoR2vkL/pvwiLRuO7eLstw4=
+
+Name: assets/rule_29.html
+SHA1-Digest: UCcaagg/MYXp2Ug3sX2tfE3GvUE=
+
+Name: assets/chap12.html
+SHA1-Digest: vURTEL1YY6MhEtz0iUM2nOVs0cU=
+
+Name: assets/Section_68.html
+SHA1-Digest: 2loFpiR5m8sk+MEmt2vRuDL5NXY=
+
+Name: assets/Section_461.html
+SHA1-Digest: ru174Ld2Tv2AEMnWYO6Dgu9TgtU=
+
+Name: assets/Section_320.html
+SHA1-Digest: YirkYGR4OOJsE9NRME+mGeWfHsU=
+
+Name: assets/rule_28.html
+SHA1-Digest: Y+verL/7Kc6VpF5Mt8CR/4rvpmA=
+
+Name: assets/Section_196.html
+SHA1-Digest: 2o+cUceEHmKzL/ly6zyaarZIU9k=
+
+Name: assets/Section_417.html
+SHA1-Digest: 8vTZwuF3QkMqDkax6+ae3UIBVII=
+
+Name: assets/Section_91.html
+SHA1-Digest: eN6ndzDpUR4MqzaCGtJQ9+XacXs=
+
+Name: assets/Section_151.html
+SHA1-Digest: UfYDKBUR6Kc46zmaNr7q0G2haoY=
+
+Name: assets/Section_142.html
+SHA1-Digest: pRqj5rQIGbEplcoA7Fxj0m6iCMU=
+
+Name: assets/rule_27.html
+SHA1-Digest: VWydD9qQ2phMWEplpYNTUaHop6U=
+
+Name: assets/Section_1.htm
+SHA1-Digest: OLQHJYyWgs8Yz+Cl5fUiiXx/jcM=
+
+Name: assets/Section_326.html
+SHA1-Digest: Kg8Xg4ihQZMyo4lL6r1OTcCzJYA=
+
+Name: assets/Section_451.html
+SHA1-Digest: EXU8vaPK/Qk5093PY0tE/C8H9vg=
+
+Name: assets/Section_287.html
+SHA1-Digest: Yr0C6l7YxSS69yDwuuewol2K+Xc=
+
+Name: assets/chap10.html
+SHA1-Digest: V2m7OM3bvNIKaOL4LEX6Hhy1Co4=
+
+Name: assets/Section_342.html
+SHA1-Digest: cgTVerTm1glZ3zxdNaI0jQaCZV0=
+
+Name: assets/Section_247.html
+SHA1-Digest: NJhCFA2701p0YdmM7Pdlwo+H70g=
+
+Name: assets/Section_469.html
+SHA1-Digest: BfU9lDkVrGbhe4M9LwqNt5zRWNc=
+
+Name: assets/rule_24.html
+SHA1-Digest: xS6f5m5XC1NeFu5HUbbIMuW+4DQ=
+
+Name: assets/Section_184.html
+SHA1-Digest: MAB0x7HS82YehdJgBMTyRQgzOT4=
+
+Name: assets/Section_24.html
+SHA1-Digest: ZOhDPJHvL2MM+1OVF4vev8MJ1VQ=
+
+Name: assets/Section_358.html
+SHA1-Digest: A1xTItX/qzGqkQHc1cIeQJbOlns=
+
+Name: assets/Section_211.html
+SHA1-Digest: PrgEe8tc5ELQOsGMEKZOBs3gDYg=
+
+Name: assets/Section_376.html
+SHA1-Digest: RGZdVpXiqINPbC8Ciok652L2XHo=
+
+Name: assets/Section_118.html
+SHA1-Digest: zYzDRDBgQ6AAZsBxa1rg7BB62WI=
+
+Name: assets/Section_403.html
+SHA1-Digest: qFU+FgodMd+VMoMOS8S5zgbRg/c=
+
+Name: assets/Section_176.html
+SHA1-Digest: QDDKTpoEQwwEAIzy37VU2j0QF+M=
+
+Name: assets/Section_125.html
+SHA1-Digest: R1VXGEmv5qNoLsiInw7hkiC/sXA=
+
+Name: assets/Section_340.html
+SHA1-Digest: PceHkOg3M/PBO2XmvADYvtQOp5A=
+
+Name: assets/Section_406.html
+SHA1-Digest: Kkeo7i0cP6hbPm1WIUezGxCCma8=
+
+Name: assets/Sectionsearch.html
+SHA1-Digest: 9ApIO1fdsKYPUmxR0XszYTGP7do=
+
+Name: assets/rule_15.html
+SHA1-Digest: sVrIjxddmIAyGCTLTvHLFlyUpVE=
+
+Name: assets/Rulessearch.html
+SHA1-Digest: 9ApIO1fdsKYPUmxR0XszYTGP7do=
+
+Name: assets/Section_10.html
+SHA1-Digest: rT9jXu1oLZGj+b2i3HOSz4qn/Pg=
+
+Name: res/layout/activity_search_sched.xml
+SHA1-Digest: 5b5v0HnwCaYfCpJDhKCD79Xhffg=
+
+Name: assets/Section_106.html
+SHA1-Digest: y3MuCSPPuCDp2g5gWGKGhX6qDPc=
+
+Name: res/drawable-hdpi/ic_action_search.png
+SHA1-Digest: qKzGXG1C4aFVY1n69BsMy4QJR2Q=
+
+Name: assets/Section_321.html
+SHA1-Digest: SwQJn+ZnuIDiJ5lo9mFQxZOaYu0=
+
+Name: assets/chap17.html
+SHA1-Digest: 35cWYoGWbczpOdsj/6tNnx/qKcU=
+
+Name: assets/Section_80.html
+SHA1-Digest: FM2s2+huVK28kqDhvrK+mIapTfE=
+
+Name: assets/Section_419.html
+SHA1-Digest: zDTrmVeZYFCCmZNm0/QuoJnFn/I=
+
+Name: assets/Section_369.html
+SHA1-Digest: QTgea/MbbBJTrFBuyCbkjgRVjzU=
+
+Name: assets/Section_324.html
+SHA1-Digest: sjiKVZ2dGCkVtLjOYxEg1i074wI=
+
+Name: assets/Section_170.html
+SHA1-Digest: MJrOsvRzJuiBr4M4L8Ye1ffy6gk=
+
+Name: assets/Section_85.html
+SHA1-Digest: KQ14aGe30t6oCbzYeAXeLxJTZOM=
+
+Name: assets/Section_216.html
+SHA1-Digest: dMnC0YXN30Wj8vIJc3ur84UOyFo=
+
+Name: assets/Section_171.html
+SHA1-Digest: z3Xq4SQZka9FpD3t7hUSDP5kmrE=
+
+Name: assets/Section_415.html
+SHA1-Digest: aTL7pHdcKQNySrMgpMZ3/jrSa9k=
+
+Name: resources.arsc
+SHA1-Digest: o/iJYkkVbDxvdA5P656dl4r95dY=
+
+Name: assets/Section_57.html
+SHA1-Digest: lsQBlZcdVFtDOEGkquVuzL3ijfc=
+
+Name: assets/Section_395.html
+SHA1-Digest: xPB5u6xFMOihEJub9is5KhIv4rU=
+
+Name: assets/Section_77.html
+SHA1-Digest: VwZTlFl0B2GiCUcqSBYI402sUaQ=
+
+Name: assets/Section_439.html
+SHA1-Digest: DkNVEyETSL1ZpWOJdS/riKH1k8w=
+
+Name: assets/div1.css
+SHA1-Digest: lnxLnmD7FtCLsoAUOL1YSCEajUY=
+
+Name: assets/Section_240.html
+SHA1-Digest: Z/bxkhMEMazN2GsXZyyLRURVErU=
+
+Name: assets/Section_467.html
+SHA1-Digest: Qz53d5L9TPF2pMTPthSyCGe7CWA=
+
+Name: assets/Section_161.html
+SHA1-Digest: mrbT7TR0hB90ldY/vRjvMa7D5Dc=
+
+Name: assets/Section_450.html
+SHA1-Digest: beWs7iLfFj98q0uBJN9x71mMatA=
+
+Name: assets/chap16.html
+SHA1-Digest: znpNj90wHCV56E/ImDL3X8V8GWg=
+
+Name: assets/Section_365.html
+SHA1-Digest: VhV+fWWx4pc+RtTWGXRzJQ0PIxk=
+
+Name: assets/Section_441.html
+SHA1-Digest: 3lH/CXS2yIm1INjJ5dQ5QDycZb4=
+
+Name: assets/Section_298.html
+SHA1-Digest: sSMxG58CPMmY0NimIZl9BZGhTME=
+
+Name: assets/Section_323.html
+SHA1-Digest: +w31b1nbwHafkkDJ6c7H5RNBjbk=
+
+Name: assets/Section_219.html
+SHA1-Digest: P+uttLbak2tFevsWKTub53TH5EI=
+
+Name: assets/Section_408.html
+SHA1-Digest: kyWngb4xV9OG1Z3ZWxMfbU2fp8Q=
+
+Name: assets/Section_110.html
+SHA1-Digest: Mrt95OI52y0qve/D2aqnzp8aodk=
+
+Name: assets/Section_169.html
+SHA1-Digest: NXGOmQQJID/0/LwzXUq55CMuHck=
+
+Name: assets/Section_301.html
+SHA1-Digest: u2GVn4TwEDnBFha6OO6iu3Bc5nw=
+
+Name: assets/Section_112.html
+SHA1-Digest: 3ibAe6H2NgqxOHBS2HpKE6Pzj4A=
+
+Name: res/drawable-hdpi/cover.jpg
+SHA1-Digest: hcXTK4f2B5dTZX2VPtiFLr5cK+U=
+
+Name: assets/Section_333.html
+SHA1-Digest: 8SCAR1u3UC+jyFFIPWd5hXfF4JE=
+
+Name: assets/Section_328.html
+SHA1-Digest: 0c11sHU8vCOfwon5PTtx8ZOT2DU=
+
+Name: assets/Section_154.html
+SHA1-Digest: 9gtBi1u+5LiOvOSzxd2EVPPIkg4=
+
+Name: assets/Section_295.html
+SHA1-Digest: vXGOTdFFnGBUnyzwjpkKRQMRaHU=
+
+Name: assets/Section_341.html
+SHA1-Digest: kCMs/BL2wNE7c4KFMyhy0x6Tb0Y=
+
+Name: assets/Section_172.html
+SHA1-Digest: 4nzeAGTDfCmkjGgOxdTDViFvI0g=
+
+Name: assets/Section_59.html
+SHA1-Digest: xJnNClE+ci9LQ5GzKoS6RSNsTMk=
+
+Name: assets/Section_236.html
+SHA1-Digest: fOQqqErWtUPo15dNX8LgaDs9aqc=
+
+Name: assets/Section_366.html
+SHA1-Digest: 3nWvNk+iJpzQxj2LOyrStv/feLk=
+
+Name: assets/Section_386.html
+SHA1-Digest: VAYzoHMY90uvo5olx8ORNCX9ADQ=
+
+Name: assets/Section_94.html
+SHA1-Digest: sZbSjsUUaleItTe/lUDy0HUGYbk=
+
+Name: assets/Section_140.html
+SHA1-Digest: KdPo5vcR4Ww5Z8rytvqvVQSBgvg=
+
+Name: assets/Section_311.html
+SHA1-Digest: Xa/PCtPwNEGvdMDTpfOIGiFVKKk=
+
+Name: assets/Section_166.html
+SHA1-Digest: MEE7vOp+a7ARp4ryuyZmwwG+AYk=
+
+Name: assets/Section_346.html
+SHA1-Digest: KQtNM09BZlKaMriwGtnD6ZeksI0=
+
+Name: assets/Section_86.html
+SHA1-Digest: v6jICbS6DxbPc2dYa8tqfsdwKG8=
+
+Name: assets/Section_445.html
+SHA1-Digest: oAmz+iVeBvOGxjUhIKHuNLjMpZ0=
+
+Name: assets/Section_26.html
+SHA1-Digest: pH3L5SuXav557iXRx37WidYe8eA=
+
+Name: assets/Section_460.html
+SHA1-Digest: rxL9fPoD6ubk0ar+ebGEq3d3No8=
+
+Name: assets/Section_425.html
+SHA1-Digest: GBE9+n2YhvJjera2vqXv11OYf6o=
+
+Name: res/menu/second.xml
+SHA1-Digest: I/LsTiQj8jVG8lfctWoSUvAtarA=
+
+Name: assets/Section_304.html
+SHA1-Digest: 7qceZBubNm+28CJGgjVUNUN16So=
+
+Name: assets/rule_25.html
+SHA1-Digest: sVrIjxddmIAyGCTLTvHLFlyUpVE=
+
+Name: assets/Section_466.html
+SHA1-Digest: Ntvy+06PWP9p4EwDDOEBklwj/kY=
+
+Name: assets/Section_218.html
+SHA1-Digest: Xs/Q/snNQQKoeBAt2iIW7Y5q38c=
+
+Name: assets/Section_285.html
+SHA1-Digest: bbxH2hJfEk5YpChnzYEsCr4FHaI=
+
+Name: assets/chap22.html
+SHA1-Digest: Fd2FWu5D+8+AaWVfsSpzxK+zQFM=
+
+Name: assets/Section_438.html
+SHA1-Digest: cY4iFagnf3WgchIprCupOy2ra2Q=
+
+Name: assets/Section_294.html
+SHA1-Digest: o953RRAajNtqWmW/s+oZg0Yfvdg=
+
+Name: assets/chap1.html
+SHA1-Digest: etxUd8jDFaFfbg4bmbht0mLNe1c=
+
+Name: assets/Section_205.html
+SHA1-Digest: RBUiFd7+IIzmcpq+Dmfkh+BOFFg=
+
+Name: assets/Section_372.html
+SHA1-Digest: eNSNCkJqR7oAz+xmDXVKVhT5qWo=
+
+Name: assets/rule_1.html
+SHA1-Digest: bWNrgG8mFBfHDRdTo7tN62RYRsQ=
+
+Name: assets/Section_353.html
+SHA1-Digest: eqckxl+Yl/EpZGrmurVs7wZp0Aw=
+
+Name: assets/Section_139.html
+SHA1-Digest: 5n1iTH/0eDowBxLB2exj4k0WKHo=
+
+Name: assets/Section_327.html
+SHA1-Digest: r4l+kgFpZIAMixeRK83gLZ/CatE=
+
+Name: assets/Section_83.html
+SHA1-Digest: rehZ/JJrYwdaVyygUtZwp59pOyQ=
+
+Name: assets/Section_434.html
+SHA1-Digest: uuXZaclMd1Xfsiwxo/HfTgW24ug=
+
+Name: assets/Section_124.html
+SHA1-Digest: QakKjyZhT+fcGwJDFUkhJMy+Qo8=
+
+Name: assets/Section_3.html
+SHA1-Digest: Z+7Tr5ZIqhcbI5GpGAtZtwUMupU=
+
+Name: assets/Section_252.html
+SHA1-Digest: 1/H2zAkr6JAo6a+/EalMphq7wD8=
+
+Name: assets/Section_34.html
+SHA1-Digest: mYQqFSw2K5/P0NGzV1Dyr/rF8rM=
+
+Name: assets/Section_336.html
+SHA1-Digest: gv8QrCesuPmRWCiiVpBQ+HORIGw=
+
+Name: res/layout/activity_second.xml
+SHA1-Digest: kp8G03cMEzQT07ia3fjHUNEAAME=
+
+Name: assets/Section_93.html
+SHA1-Digest: E6nLMKAykcWxA0a427iWEJeFyq8=
+
+Name: assets/Schedule_5.html
+SHA1-Digest: VH+k53M1A9yjSTOVIc0a/jSY0PQ=
+
+Name: assets/Section_385.html
+SHA1-Digest: 6E8I8X7mQZXfMeom0MJrtY0X28w=
+
+Name: assets/Section_278.html
+SHA1-Digest: EHDCspHqbZtNrFQ8ESKu78e27Aw=
+
+Name: assets/Section_183.html
+SHA1-Digest: UnKg91QM4rBAGUMg8hoJCF+0Mqc=
+
+Name: assets/Section_123.html
+SHA1-Digest: XDd6hNaz6inCfcWxv3D056RGUfQ=
+
+Name: assets/Section_264.html
+SHA1-Digest: B9NIWYjQHjhJcNhQyZUBmce84Do=
+
+Name: assets/chap21.html
+SHA1-Digest: qqbRtSPWohCvQZczKLCJ2gDEVUk=
+
+Name: assets/Section_52.html
+SHA1-Digest: P58d8CWQF0zEm2b3i1fp/r+aWS4=
+
+Name: assets/Section_78.html
+SHA1-Digest: j+bmMJ6rndKe0qtOTkrcJol2G/o=
+
+Name: assets/Section_152.html
+SHA1-Digest: Jo44/MwzATyUx30SghtpyUpEwA8=
+
+Name: assets/Section_159.html
+SHA1-Digest: PyYF7la+oaAsDRk/ZRTy54Mem+4=
+
+Name: assets/Section_313.html
+SHA1-Digest: CUw0vykVsPYpoiLPEhp5oWm2t6A=
+
+Name: assets/rule_16.html
+SHA1-Digest: ITv93G1kxjJU/mdZY8z8ZPRg7EE=
+
+Name: assets/Section_89.html
+SHA1-Digest: IpSd6zOBirspitoQbP+IJC+hPBM=
+
+Name: assets/Section_54.html
+SHA1-Digest: oPa5WvDcWlKWyJERM5FzW5Hz/gY=
+
+Name: assets/Section_226.html
+SHA1-Digest: Dm9bfMKnkvC5Yu25U0Lt2FIJ6rM=
+
+Name: assets/Section_128.html
+SHA1-Digest: mCZ5RqamAm2OcuCODKawZ+scfwA=
+
+Name: assets/Section_222.html
+SHA1-Digest: FyAGwRPhENvgHEu5t62cKl1VVms=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: assets/Section_191.html
+SHA1-Digest: s6HF14mp4BHzLpeMsGRAX5sm8bQ=
+
+Name: assets/Section_409.html
+SHA1-Digest: /dbJyQS7k3Smqhmqqs6hkRrNJQc=
+
+Name: assets/Section_186.html
+SHA1-Digest: IMRQT2FBDRn8CgoxZIfFtRTXsGM=
+
+Name: assets/Section_49.html
+SHA1-Digest: WcSxZT6hy6rY50+pAcTXmnZpKhU=
+
+Name: assets/Section_131.html
+SHA1-Digest: e+qckNt/NWEBQYHKOyCC85u+Jlk=
+
+Name: assets/rule_8.html
+SHA1-Digest: ZERpaFWf+nNC433zr/3JhiA1DPA=
+
+Name: assets/Section_187.html
+SHA1-Digest: mWqb3SxiHwdhoPv4F9rNXI6Bi+M=
+
